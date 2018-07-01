@@ -1,2 +1,2 @@
 
-![picture](/images/screenie)
+![picture](/images/screenie.png)
